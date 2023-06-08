@@ -42,9 +42,8 @@ yarn
 
 ## Configure the YouTube API key
 
-1. Rename the `.env.example` file to `.env`.
-2. Open the `.env` file in a text editor.
-3. Replace `YOUR_YOUTUBE_API_KEY` with your YouTube API key.
+1. create `.env` file in a root.
+2. give `NEXT_PUBLIC_YOUTUBE_API_KEY` = `YOUR_YOU_TUBE_API`
 
 ## Start the development server
 ```
