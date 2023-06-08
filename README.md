@@ -1,5 +1,7 @@
 # Moviefy - Open Source Next.js App
 
+![image](https://github.com/Thedineshk24/moviefy/assets/33573799/94b9ec35-76a6-4d08-b3ce-6f9a32689a56)
+
 Moviefy is an open-source Next.js application that allows users to browse and play videos of TV shows. The app fetches data from the YouTube API to retrieve information about TV shows and provides a seamless video playback experience.
 
 ## Features
